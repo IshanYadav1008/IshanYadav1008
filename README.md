@@ -1,10 +1,10 @@
 # Hi, I'm Ishan Yadav 👋
 
-Software Developer with **2.5 years of experience
+- Software Developer with 2.5 years of experience in building production web applications 
+  using Node.js, Ruby on Rails and JavaScript.
 
-JavaScript • Node.js • React.js • Ruby on Rails 
-
-Currently strengthening my full-stack development skills by building **MERN Stack** applications.
+- Currently strengthening my full-stack development skills by building **MERN Stack** 
+  applications.
 
 ---
 
@@ -15,6 +15,15 @@ Currently strengthening my full-stack development skills by building **MERN Stac
 - 🔐 Worked with JWT Authentication, File Uploads, SMTP Email Services and Razorpay Integration
 - 🗄️ Experience with MongoDB and SQLite databases
 - 🌱 Currently improving my React.js and MERN Stack skills through hands-on projects
+
+---
+
+## 💼 Professional Experience
+
+- Built production-grade REST APIs using Node.js and Ruby on Rails.
+- Worked on a microservices-based DOOH advertising platform (AdSemble Calendar & OpenDisplay).
+- Implemented JWT authentication, file uploads, SMTP services, and Razorpay integration.
+- Contributed to feature development, deployments, code reviews, bug fixing, and production support.
 
 ---
 
