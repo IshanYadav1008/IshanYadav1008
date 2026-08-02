@@ -1,5 +1,5 @@
 --------------------------------------------------
-              ISHAN YADAV
+# Hi, I'm Ishan Yadav 👋
 
 Software Developer | Node.js | React.js | RoR
 --------------------------------------------------
