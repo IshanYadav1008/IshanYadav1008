@@ -1,4 +1,8 @@
-# Hi, I'm Ishan Yadav 👋
+--------------------------------------------------
+              ISHAN YADAV
+
+Software Developer | Node.js | React.js | RoR
+--------------------------------------------------
 
 - Software Developer with 2.5 years of experience in building production web applications 
   using Node.js, Ruby on Rails and JavaScript.
