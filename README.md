@@ -4,7 +4,7 @@
 Software Developer | Node.js | React.js | RoR
 --------------------------------------------------
 
-- Software Developer with 2.5 years of experience in building production web applications 
+- Software Developer with 2.6 years of experience in building production web applications 
   using Node.js, Ruby on Rails and JavaScript.
 
 - Currently strengthening my full-stack development skills by building **MERN Stack** 
@@ -14,7 +14,7 @@ Software Developer | Node.js | React.js | RoR
 
 ## 👨‍💻 About Me
 
-- 💼 2.5 years of professional experience in backend development
+- 💼 2.6 years of professional experience in backend development
 - 🚀 Experienced in developing REST APIs and production web applications
 - 🔐 Worked with JWT Authentication, File Uploads, SMTP Email Services and Razorpay Integration
 - 🗄️ Experience with MongoDB and SQLite databases
