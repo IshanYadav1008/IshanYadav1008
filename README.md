@@ -89,8 +89,8 @@ A full-stack e-commerce application built using **React.js, Node.js, Express.js,
 
 | Resource  | Link                                                          |
 |-----------|---------------------------------------------------------------|
-| Frontend  | [GitHub](https://github.com/IshanYadav1008/digishop-frontend) |
-| Backend   | [GitHub](https://github.com/IshanYadav1008/digishop-backend)  |
+| Frontend  | [GitHub](https://github.com/IshanYadav1008/digishop-react) |
+| Backend   | [GitHub](https://github.com/IshanYadav1008/digishop-node)  |
 | Live Demo | [Open Application](https://digi-shop-react.vercel.app)        |
 
 ---
