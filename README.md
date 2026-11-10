@@ -1,13 +1,13 @@
 --------------------------------------------------
 # Hi, I'm Ishan Yadav 👋
 
-Software Developer | Node.js | React.js | RoR
---------------------------------------------------
+Software Developer | Python | Node.js | React.js | RoR
+------------------------------------------------------
 
 - Software Developer with 2.6 years of experience in building production web applications 
   using Node.js, Ruby on Rails and JavaScript.
 
-- Currently strengthening my full-stack development skills by building **MERN Stack** 
+- Currently strengthening my Software development skills by building **Python** 
   applications.
 
 ---
@@ -34,6 +34,7 @@ Software Developer | Node.js | React.js | RoR
 ## 🛠️ Tech Stack
 
 ### Languages
+- Python
 - JavaScript
 - Ruby
 - HTML5
@@ -44,11 +45,13 @@ Software Developer | Node.js | React.js | RoR
 - jQuery
 
 ### Backend
+- Python
 - Node.js
 - Express.js
 - Ruby on Rails
 
 ### Database
+- MySQL
 - MongoDB
 - SQLite
 
